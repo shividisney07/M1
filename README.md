@@ -1,7 +1,7 @@
 
 # EX-01-Datatypes-Operators
-### Name : N.Surya
-### Register number : 212225040442
+### Name : U.Deepika
+### Register number : 212225040060
 
 ## AIM:
 Write a C program to read 3 characters one by one and print the characters in a reverse order.
@@ -34,8 +34,8 @@ Thus the program to read 3 characters one by one and print the characters in a r
 
 
 # EX-02- Conditional-Statements
-### Name : A.Sathya Narayanan
-### Register number : 25016804
+### Name : U.Deepika
+### Register number : 212225040060
 ## AIM:
 Write a C program to read A values and check whether A is positive number or not.
 
@@ -77,8 +77,8 @@ Thus the program to read A values and check whether A is positive number or not 
 
 
 # EX-03- Operators-Expressions
-### Name : A.Sathya Narayanan
-### Register number : 25016804
+### Name : U.Deepika
+### Register number : 212225040060
 ## AIM:
 Write a program to find minimum between two fraction numbers using conditional operator or ternary operator.
 
@@ -116,8 +116,8 @@ Thus the program to find minimum between two fraction numbers using conditional 
 
 
 # EX-04- Using Conditional Statements
-### Name : A.Sathya Narayanan
-### Register number : 25016804
+### Name : U.Deepika
+### Register number : 212225040060
 
 ## AIM:
 Write a C program to check whether the input value is equal to 1 using simple if statement
@@ -159,8 +159,8 @@ Thus the program to check whether the input value is equal to 1 using simple if 
 
 
 # EX-05- Calculating Total, Percentage, And Division Using Conditional Statements 
-### Name : A.Sathya Narayanan
-### Register number : 25016804
+### Name : U.Deepika
+### Register number : 212225040060
 ## AIM:
 To write a C program that reads marks of three subjects, calculates the total and percentage, and then determines the division (First, Second, Pass, or Fail) based on the percentage and minimum marks criteria.
 ## ALGORITHM:
